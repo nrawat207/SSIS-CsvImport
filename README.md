@@ -10,3 +10,8 @@ This is sample SSIS csv file import project.
 6. Move file to Archive
 
 # Output
+![alt text](https://github.com/nrawat207/SSIS-CsvImport/blob/main/docs/Images/CSV_file.jpg)
+![alt text](https://github.com/nrawat207/SSIS-CsvImport/blob/main/docs/Images/Project_Params.jpg)
+![alt text](https://github.com/nrawat207/SSIS-CsvImport/blob/main/docs/Images/Control_Flow.jpg)
+![alt text](https://github.com/nrawat207/SSIS-CsvImport/blob/main/docs/Images/Data_Flow.jpg)
+![alt text](https://github.com/nrawat207/SSIS-CsvImport/blob/main/docs/Images/Data_imported_to%20SQLDB.jpg)
